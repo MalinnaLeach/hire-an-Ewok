@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Store } from '@ngrx/store';
-import { AppState, EwokProfile } from '../app/reducers/ewoks';
+import { AppState, EwokProfile } from '../../reducers/ewoks';
 import * as Rx from 'RxJS';
 
 @Component({
